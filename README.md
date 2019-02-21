@@ -20,9 +20,9 @@
 
 learning python entry course on Udacity.
 
-Integer and Float
-Introducing Operators
-Basic string
-Count length of a string
-Add Udacity course link to wishlist for consideration
+- Integer and Float
+- Introducing Operators
+- Basic string
+- Count length of a string
+- Add Udacity course link to wishlist for consideration
 https://cn.udacity.com/course/intro-to-python-nanodegree--nd302-cn-basic?utm_source=preview&utm_medium=preview&utm_campaign=python
