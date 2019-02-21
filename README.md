@@ -15,3 +15,10 @@
 2.1 学习如何抓取数据并保存为初始训练池
 2.2 学习如何训练数据
 2.3 学习如何输出结果
+
+2019-02-21 60mins
+
+learning python entry course on Udacity.
+
+Integer and Float
+Introducing Operators
